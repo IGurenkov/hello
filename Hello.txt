@@ -1,5 +1,9 @@
 New
 Новая строка
 
+<<<<<<< HEAD
 Hello, Git!
 Hello, Git rabase!
+=======
+Hello, world!
+>>>>>>> 1eb490e (Adding new line feature)
